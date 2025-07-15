@@ -138,6 +138,6 @@ Obrigado pro comprar conosco
 
 **Autor:** Alexsandro Jackson
 
-**Licença:** Este projeto está sob a licença MIT License. Consulte o arquivo `LICENSE` (se houver) para mais detalhes.
+**Licença:** Este projeto está sob a licença MIT License. Consulte o arquivo `LICENSE` para mais detalhes.
 
 ---
